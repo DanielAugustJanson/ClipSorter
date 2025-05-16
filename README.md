@@ -1,9 +1,9 @@
 ### ClipSorter v0.5
-#A basic Python script to rename video clips in the given folder
+# A basic Python script to rename video clips in the given folder
 
-#Made since I am annoyed as how long OBS names are for files
+# Made since I am annoyed as how long OBS names are for files
 
-##Tldr:
+## Tldr:
 
 1. Drag to folder where clips are stored
 2. Run script
